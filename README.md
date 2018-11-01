@@ -1,5 +1,5 @@
 # Tableau Extensions API Tutorial Part Four
-Tableau Extensions API Tutorial Part Three
+Tableau Extensions API Tutorial Part Four
 
 To install the code and get up and running:
 
