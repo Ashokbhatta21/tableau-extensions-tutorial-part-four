@@ -3,5 +3,13 @@
     "bootstrap": "^4.1.3",
     "chart.js": "^2.7.3",
     "jquery": "^3.3.1"
-  }
+  },
+  "name": "tableau-extensions-tutorial-part-four",
+  "version": "1.0.0",
+  "description": "NA",
+  "main": "index.js",
+  "repository": "https://github.com/Ashokbhatta21/tableau-extensions-tutorial-part-four.git",
+  "author": "Ashokbhatta21",
+  "license": "NA",
+  "private": null
 }
